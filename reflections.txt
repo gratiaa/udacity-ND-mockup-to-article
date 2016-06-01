@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+
+  Firstly, I’ve learned about the basic workflow which I should know to start web development. And secondly, I practiced HTML syntax by solving the problem set. HTML syntax and its usage are quite simple. Even if there might be some grammatical errors in my HTML file, browsers take care of them softly by themselves! But it indicates what is the most difficult thing when learning HTML. The hardest thing about HTML (and also, the only obstacle) is that I have to make my own judgement call whenever I have to choose an adequate html element considering the context. 
+  I read articles from HTML5 Doctor site (http://html5doctor.com/) and HTML element reference from MDN (https://developer.mozilla.org/en-US/docs/Web/HTML/Element) to convince myself that the choice I made is valid. They helped me a lot. I also tried to read some part of W3C HTML5 specification, but it was way much harder to read than the MDN document. 
+  To HTML beginners, I think the W3C spec should be a last resort because of its strictness and unkindness :p
